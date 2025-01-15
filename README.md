@@ -9,6 +9,8 @@ This project consists of two interactive dashboards:
 # 1) Home Dashboard
 The Home Dashboard offers a high-level metrics for quick insights into overall sales performance. 
 
+![Screenshot 2025-01-15 130801](https://github.com/user-attachments/assets/04b73201-bea0-4893-a56d-97652e6c43fa)
+
 ## Key Features
 
 ### KPIs
@@ -33,5 +35,7 @@ A Funnel chart highlights the total pizzas sold by category: Classic, Supreme, V
 
 # Top/Bottom sellers Dashboard
 This dashboard provides insights into the top five best-selling and bottom five worst-selling pizzas based on revenue, quantity, and total orders, enabling the identification of the most popular and underperforming pizzas.
+
+![Screenshot 2025-01-15 130822](https://github.com/user-attachments/assets/9c49fa1f-1ade-4f4f-8640-0bf88a8c021c)
 
 
