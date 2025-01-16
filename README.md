@@ -33,7 +33,7 @@ The dashboard visualizes sales trends to uncover patterns over time:
 A Funnel chart highlights the total pizzas sold by category: Classic, Supreme, Veggie, Chicken
 
 
-# Top/Bottom sellers Dashboard
+# Top/Bottom Sellers Dashboard
 This dashboard provides insights into the top five best-selling and bottom five worst-selling pizzas based on revenue, quantity, and total orders, enabling the identification of the most popular and underperforming pizzas.
 
 ![Screenshot 2025-01-15 130822](https://github.com/user-attachments/assets/9c49fa1f-1ade-4f4f-8640-0bf88a8c021c)
